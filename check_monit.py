@@ -1,3 +1,7 @@
+#####This is commit 1 !!!!
+
+
+
 #!/usr/bin/env python
 ### The script collects data(response, i guess) from the remote MONIT service. 
 #The monit service is running on port 2812.###
